@@ -1,0 +1,2 @@
+./nevpk -d -i strip-01.bin -o strip-01.z80
+./nedcmake -i strip-01.z80 -type 1 -region 1
